@@ -5,11 +5,11 @@ This is a layer based deep learning toolkit written on top of Numpy. It aims to 
 
 TODO
 ----
- - [*] Framework
- - [*] Layer machenism
- - [ ] Auto chaining differentiation
- - [ ] Converlution Layers
- - [ ] Recurrent Layers
+- [*] Framework
+- [*] Layer machenism
+- [ ] Auto chaining differentiation
+- [ ] Converlution Layers
+- [ ] Recurrent Layers
 
 
 Licence
