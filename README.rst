@@ -5,8 +5,8 @@ This is a layer based deep learning toolkit written on top of Numpy. It aims to 
 
 TODO
 ----
-- [*] Framework
-- [*] Layer machenism
+- [x] Framework
+- [x] Layer machenism
 - [ ] Auto chaining differentiation
 - [ ] Converlution Layers
 - [ ] Recurrent Layers
@@ -19,4 +19,4 @@ MIT License
 Authors
 -------
 
-`yi` was written by `Wen Li <spacelis@gmail.com>`_.
+`Yi` was written by `Wen <spacelis *at* gmail.com>`_.
